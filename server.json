@@ -1,8 +1,8 @@
 {
     "servers": [
         {
-            "name": "[as above]",
-            "address": "[also as above]"
+            "name": "kiki",
+            "address": "https://anisette-v3-server-tkai.onrender.com"
         }
     ]
 }
